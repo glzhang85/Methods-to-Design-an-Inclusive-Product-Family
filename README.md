@@ -11,6 +11,7 @@ The search result includes 4722 documents from 1996 to 2019.
 The last updated date is May 2, 2020.  
 
 The following seven txt files are included in this folder: 
+
 2019.txt – publication information of 605 documents in 2019 
 
 2018.txt – publication information of 505 documents in 2018 
