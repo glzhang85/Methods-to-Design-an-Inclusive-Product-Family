@@ -3,6 +3,7 @@ Methods to Design an Inclusive Product Family
 Supplementary materials  
 
 This folder provides the search result in Scopus (https://www.scopus.com/) using the following search strategy: 
+
 Title, Abstract, Keywords = “inclusive design” or “design for disability”  
 Subject Area = “Engineering”  
 Published = “All Years” to “2019” 
